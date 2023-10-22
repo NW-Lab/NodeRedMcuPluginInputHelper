@@ -20,7 +20,7 @@
     "node-red-mcu-plugin"
   ],
   "dependencies": {
-    "@ralphwetzel/node-red-mcu-plugin":*
+    "@ralphwetzel/node-red-mcu-plugin":"*"
   },
   "engines": {
     "node": ">=14.17.0"
