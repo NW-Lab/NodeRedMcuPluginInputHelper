@@ -8,9 +8,6 @@
       "mcu": "input_helper.js"
     }
   },
-  //"scripts": {
-  //  "install": "node pullmcu.js"
-  //},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NW-Lab/NodeRedMcuPluginInputHelper.git"
