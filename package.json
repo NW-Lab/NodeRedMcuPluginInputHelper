@@ -1,0 +1,37 @@
+{
+  "name": "@nw-lab/node-red-mcu-plugin-input-helper",
+  "version": "0.1",
+  "description": "Input Helper",
+  "node-red": {
+    "version": ">=2.0.0",
+    "plugins": {
+      "mcu": "input_helper.js"
+    }
+  },
+  //"scripts": {
+  //  "install": "node pullmcu.js"
+  //},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NW-Lab/NodeRedMcuPluginInputHelper.git"
+  },
+  "keywords": [
+    "node-red",
+    "node-red-mcu",
+    "Node-RED",
+    "Node-RED MCU Edition",
+    "node-red-mcu-plugin"
+  ],
+  "dependencies": {
+    "@ralphwetzel/node-red-mcu-plugin":*
+  },
+  "engines": {
+    "node": ">=14.17.0"
+  },
+  "author": "NW-LAB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NW-Lab/NodeRedMcuPluginInputHelper/issues"
+  },
+  "homepage": "https://github.com/NW-Lab/NodeRedMcuPluginInputHelper#readme"
+}
